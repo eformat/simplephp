@@ -1,4 +1,4 @@
 <?php
 
-echo "Kmart sucks.  Target is where the action is !!!";
+echo "All Blacks will win the world cup !!!";
 
