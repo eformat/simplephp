@@ -1,4 +1,4 @@
 <?php
 
-echo "The All Blakcs will win the world cup !!!";
+echo "The All Blacks will win the world cup !!!";
 
