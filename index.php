@@ -1,5 +1,5 @@
 <?php
 
 echo "The All Blacks will win the world cup !";
-echo "ServerIP: " + $_SERVER['SERVER_ADDR'];
-
+$IP = isset($_SERVER['SERVER_ADDR'])?$_SERVER['SERVER_ADDR']:gethostbyname(gethostname());
+echo "ServerIP: ", $IP;
